@@ -1,3 +1,8 @@
+// Oscar De La Torre
+// CPSC-131
+// 05-03-2024
+//
+
 #include <iostream>
 #include <vector>
 #include <string>
